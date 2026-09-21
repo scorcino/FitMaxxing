@@ -62,7 +62,37 @@
 
  ## 2. Workout Plan Display
 
- (Coming soon)
+ The Workout Plan Display screen is designed to be clear, intuitive, and provide all the necessary information for the user to complete their workout.
+
+ ### 2.1. Daily View
+
+ - **Purpose:** To display the current day's workout plan.
+ - **Content:**
+  - The current date and the name of the workout (e.g., "Full Body Strength A", "Cardio & Abs").
+  - A list of exercises for the workout.
+  - Each exercise will display:
+  - **Exercise Name:** e.g., "Squats", "Push-ups".
+  - **Sets and Reps:** e.g., "3 sets of 10-12 reps".
+  - **Rest Time:** e.g., "60 seconds rest".
+  - **Thumbnail:** A small image or video thumbnail showing the exercise.
+  - Tapping on an exercise will take the user to the **Exercise Detail Screen**.
+
+ ### 2.2. Exercise Detail Screen
+
+ - **Purpose:** To provide detailed information about the selected exercise.
+ - **Content:**
+  - A large video demonstration of the exercise.
+  - A step-by-step text description of how to perform the exercise correctly.
+  - A section for "Tips" or "Common Mistakes" to help the user with their form.
+  - A "Mark as Complete" button to track progress.
+
+ ### 2.3. Weekly View
+
+ - **Purpose:** To provide a view of the workout plan for the entire week.
+ - **Content:**
+  - A calendar-like interface showing the workout scheduled for each day of the week.
+  - Tapping on a day will take the user to the daily view for that day.
+  - Rest days will be clearly marked.
 
  ## 3. Nutrition Plan Display
 
