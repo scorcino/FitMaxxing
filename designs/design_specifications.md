@@ -96,7 +96,35 @@
 
  ## 3. Nutrition Plan Display
 
- (Coming soon)
+ The Nutrition Plan Display screen is designed to be easy to understand and visually appealing, encouraging users to stick to their plan.
+
+ ### 3.1. Daily View
+
+ - **Purpose:** To display the current day's meal plan.
+ - **Content:**
+  - The view will be divided into meal times (e.g., "Breakfast", "Lunch", "Dinner", "Snacks").
+  - Each meal will display:
+  - **Meal Name:** e.g., "Scrambled Eggs with Spinach", "Grilled Chicken Salad".
+  - **Calorie Count:** e.g., "350 kcal".
+  - **Macronutrient Breakdown:** A simple chart or a set of values showing the protein, carbs, and fat content.
+  - **Thumbnail:** A photo of the meal.
+  - Tapping on a meal will take the user to a **Recipe Screen**.
+
+ ### 3.2. Recipe Screen
+
+ - **Purpose:** To provide the recipe for the selected meal.
+ - **Content:**
+  - A high-quality photo of the meal at the top.
+  - A list of ingredients with quantities.
+  - A step-by-step guide on how to prepare the meal.
+  - A "Mark as Eaten" button to track their food intake.
+
+ ### 3.3. Weekly View
+
+ - **Purpose:** To provide a view of the meal plan for the entire week.
+ - **Content:**
+  - A calendar-like interface showing the meals scheduled for each day of the week.
+  - Tapping on a day will take the user to the daily view for that day.
 
  ## 4. Progress Tracking
 
