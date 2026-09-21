@@ -128,7 +128,33 @@
 
  ## 4. Progress Tracking
 
- (Coming soon)
+ This feature is designed to help users stay motivated and see their progress over time. The AI will also use this data to adjust the workout and nutrition plans.
+
+ ### 4.1. Dashboard
+
+ - **Purpose:** To provide an overview of the user's progress.
+ - **Content:**
+  - Charts and graphs to visualize the data.
+  - **Weight:** A line graph showing the user's weight over time.
+  - **Workout Consistency:** A chart showing how many workouts the user has completed each week.
+  - **Calorie Intake:** A bar chart showing the user's daily calorie intake compared to their target.
+  - **Macronutrient Distribution:** A pie chart showing the user's average macronutrient distribution.
+  - A "Log Progress" button where users can manually input their weight and other measurements.
+
+ ### 4.2. Progress Photos
+
+ - **Purpose:** To allow users to visually track their physical transformation.
+ - **Content:**
+  - A section where users can upload and store progress photos.
+  - The photos will be displayed in a timeline.
+
+ ### 4.3. AI Feedback and Adjustments
+
+ - **Purpose:** To provide regular feedback and automatically adjust the user's plan.
+ - **Content:**
+  - The app will provide positive reinforcement when the user is consistently hitting their goals.
+  - The app will offer encouragement and the AI might suggest adjustments to their plan if the user is struggling.
+  - The AI will automatically adjust the workout and nutrition plans based on the user's progress.
 
  ## 5. AI Interaction
 
